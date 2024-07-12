@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\connect-four\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\connect-four.bundle.scp.css",
+      "PackagePath": "staticwebassets\\connect-four.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\connect-four\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\connect-four\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\connect-four\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\connect-four\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.connect-four.props",
+      "PackagePath": "build\\connect-four.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.connect-four.props",
+      "PackagePath": "buildMultiTargeting\\connect-four.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.connect-four.props",
+      "PackagePath": "buildTransitive\\connect-four.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.connect-four.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
