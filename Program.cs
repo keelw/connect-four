@@ -1,6 +1,7 @@
 using connect_four.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<GameState>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()

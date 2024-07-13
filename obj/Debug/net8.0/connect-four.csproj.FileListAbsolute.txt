@@ -28,3 +28,4 @@ C:\Users\wjord\School Projects\cse325\connect-four\obj\Debug\net8.0\connect-four
 C:\Users\wjord\School Projects\cse325\connect-four\obj\Debug\net8.0\connect-four.genruntimeconfig.cache
 C:\Users\wjord\School Projects\cse325\connect-four\obj\Debug\net8.0\ref\connect-four.dll
 C:\Users\wjord\School Projects\cse325\connect-four\obj\Debug\net8.0\scopedcss\Components\Board.razor.rz.scp.css
+C:\Users\wjord\School Projects\cse325\connect-four\obj\Debug\net8.0\connect-four.sourcelink.json

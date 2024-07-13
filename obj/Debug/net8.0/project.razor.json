@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -403898910,
-        "Kind": "Components.Component",
-        "Name": "connect_four.Components.App",
-        "AssemblyName": "connect-four",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "connect_four.Components.App"
-        }
-      },
-      {
-        "HashCode": -1775642112,
-        "Kind": "Components.Component",
-        "Name": "connect_four.Components.App",
-        "AssemblyName": "connect-four",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "connect_four.Components.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "connect_four.Components.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 381161267,
         "Kind": "Components.Component",
         "Name": "connect_four.Components.Pages.Error",
@@ -339,7 +306,40 @@
         }
       },
       {
-        "HashCode": 231770574,
+        "HashCode": -403898910,
+        "Kind": "Components.Component",
+        "Name": "connect_four.Components.App",
+        "AssemblyName": "connect-four",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "connect_four.Components.App"
+        }
+      },
+      {
+        "HashCode": -1775642112,
+        "Kind": "Components.Component",
+        "Name": "connect_four.Components.App",
+        "AssemblyName": "connect-four",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "connect_four.Components.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "connect_four.Components.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1179670550,
         "Kind": "Components.Component",
         "Name": "connect_four.Components.Board",
         "AssemblyName": "connect-four",
@@ -349,13 +349,39 @@
             "TagName": "Board"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "BoardColor",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "BoardColor"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player1Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player1Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player2Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player2Color"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "connect_four.Components.Board"
         }
       },
       {
-        "HashCode": -951552980,
+        "HashCode": 1229405798,
         "Kind": "Components.Component",
         "Name": "connect_four.Components.Board",
         "AssemblyName": "connect-four",
@@ -363,6 +389,32 @@
         "TagMatchingRules": [
           {
             "TagName": "connect_four.Components.Board"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "BoardColor",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "BoardColor"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player1Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player1Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player2Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player2Color"
+            }
           }
         ],
         "Metadata": {
